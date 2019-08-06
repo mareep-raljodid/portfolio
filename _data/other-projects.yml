@@ -1,0 +1,77 @@
+- name: Sign Language Predictor
+  url: https://colab.research.google.com/drive/1EMvokUcPU1LJ8SvsWKLiEk9whFvVUWi3
+  code: https://github.com/mareep-raljodid/SignLanguage_ML
+  description: A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
+  used:
+    - thing: Kaggle
+    - thing: Google Colab
+    - thing: TensorFlow 2.0
+    - thing: Python
+    - thing: Convolution Neural Networks
+
+- name: BLAME-er x.0
+  url: https://github.com/mareep-raljodid/BLAME-er-x.0
+  code: https://github.com/mareep-raljodid/BLAME-er-x.0
+  description: A full stack CLI ENCRYPTION Application made with Rust [Encryptions available are DES and SHA] uses <a class="underline-link" href="https://en.wikipedia.org/wiki/Honey_encryption">Honey Encryption Method </a> to hash message/files/objects, and verify them. Uses a Deep Learning Model to generate the Honeys, using Natural Language Processing [LSTM]</a>.
+  used:
+    - thing: Natural Language Processing
+    - thing: Encryption
+    - thing: TensorFLow 2.0
+    - thing: Rust
+    - thing: DES
+    - thing: SHA
+
+- name: ThingZone
+  url: https://thingzone.herokuapp.com/
+  code: https://github.com/mareep-raljodid/Thing-Zone--proto
+  description: ThingZone prototype used for user study conducted at School of IT, CECH, University of Cincinnati. This is an android app, in developement state for UC-research.
+  used:
+    - thing: Android
+    - thing: Python
+    - thing: Ngrok
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+
+- name: Super Chess
+  url: https://github.com/mareep-raljodid/CPP-Games/tree/master/Chess-Game
+  code: https://github.com/mareep-raljodid/CPP-Games/tree/master/Chess-Game
+  description: This program is a somewhat faithful recreation of chess. It allows two people to play a full game against each other. It provides a graphical representation of the board, as well as the ability to check that every move is legal and determine when each king is in check.
+  used:
+    - thing: C++
+    - thing: OOP
+    - thing: Graphical / UI 
+    - thing: Chess
+
+- name: COMMANDO 2.0
+  url: https://github.com/mareep-raljodid/CPP-Games/tree/master/Commando_Game(Story%20Mode)
+  code: https://github.com/mareep-raljodid/CPP-Games/tree/master/Commando_Game(Story%20Mode)
+  description: A game where player starts in an unknown map. Searches for three bombs, and deactivate them to aquire IDs. And lastly deactivates the main bomb to win the game. <br>
+    <a class="small" href="https://www.chipotle.com/">🏆 Won a bet of Chipotle against my friend 🏆</a>
+  used:
+    - thing: C++
+    - thing: OOP
+    - thing: Zork 
+    - thing: Story Game
+
+- name: Game of Luck
+  url: https://github.com/mareep-raljodid/CPP-Games/tree/master/Game%20of%20Luck
+  code: https://github.com/mareep-raljodid/CPP-Games/tree/master/Game%20of%20Luck
+  description: A simple C++ program. Not that interesting.
+  img: 
+  used:
+    - thing: C++
+    - thing: OOP
+    - thing: Not Interesting
+
+
+- name: Portfolio 
+  url: https://github.com/mareep-raljodid/portfolio
+  code: https://github.com/mareep-raljodid/portfolio
+  description: This portfolio / personal website, designed and developed with a conscious effort to showcase my projects that I am currently working on.
+  used:
+  - thing: Jekyll
+  - thing: Handlebars
+  - thing: SCSS
+  - thing: JavaScript
+  - thing: Github Pages

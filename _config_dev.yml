@@ -1,0 +1,40 @@
+# Site settings
+name: Rajdeep Bandopadhyay
+title: Rajdeep Bandopadhyay | AI Engineer
+description: Aspiring Machine Learning Engineer focused on making the first AGI
+url: https://mareep-raljodid.github.io/portfolio/
+baseurl: ""
+email: bandoprp@mail.uc.edu
+cover: https://mareep-raljodid.github.io/portfolio/img/headshot.png
+logo: https://mareep-raljodid.github.io/portfolio/img/emojis/technologist.png
+resume: https://mareep-raljodid.github.io/portfolio/resume.pdf
+social:
+  - title: email
+    url: mailto:bandoprp@mail.uc.edu
+  - title: github
+    url: https://github.com/mareep-raljodid
+  - title: linkedin
+    url: https://www.linkedin.com/in/rajdeep-bandopadhyay/
+  
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

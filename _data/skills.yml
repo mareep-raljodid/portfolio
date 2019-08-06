@@ -1,0 +1,33 @@
+languages:
+  - item: C++
+  - item: Rust
+  - item: Java
+  - item: HTML
+  - item: Python
+  - item: MATLAB
+  - item: Visual Basic Script
+
+frameworks:
+  - item: Cryptography
+  - item: Penetration Testing
+  - item: Jekyll (Web Development)
+  - item: Machine Learning (NLP)
+  - item: Deep Learning (Computer vision)
+  - item: Linux & Unix
+  
+tools:
+  - item: TensorFlow 
+  - item: Git & Github
+  - item: Scikit-learn
+  - item: Jupyter Notebook
+  - item: Rust Cargo (Crates I/O)
+  - item: Photoshop
+
+design:
+  - item: Communication
+  - item: Self-starter
+  - item: Team Oriented
+  - item: Critical Thinking
+  - item: Problem Solving
+  - item: Self-motivation
+
