@@ -68,10 +68,10 @@
 - name: Portfolio 
   url: https://github.com/mareep-raljodid/portfolio
   code: https://github.com/mareep-raljodid/portfolio
-  description: This portfolio / personal website, designed and developed with a conscious effort to showcase my projects that I am currently working on.
+  description: This portfolio / personal website, designed and developed with a conscious effort to showcase my projects that I am currently working on. I did not develop this whole websire though, I am not skilled in web-dev I just copy pasted and reused code. Thanks to Brittany Chiang for open-sourcing this portfolio source code.
   used:
   - thing: Jekyll
-  - thing: Handlebars
+  - thing: Code Reusing
   - thing: SCSS
   - thing: JavaScript
   - thing: Github Pages
