@@ -1,7 +1,7 @@
 - name: Sign Language Predictor
   url: https://colab.research.google.com/drive/1EMvokUcPU1LJ8SvsWKLiEk9whFvVUWi3
   code: https://github.com/mareep-raljodid/SignLanguage_ML
-  description: A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
+  description: A Machine Learning Model trained on American sign language Dataset using tensorflow nightly built, to predict the letters or numbers from a picture of a hand doing a certain sign.
   used:
     - thing: Kaggle
     - thing: Google Colab
@@ -68,10 +68,10 @@
 - name: Portfolio 
   url: https://github.com/mareep-raljodid/portfolio
   code: https://github.com/mareep-raljodid/portfolio
-  description: This portfolio / personal website, designed and developed with a conscious effort to showcase my projects that I am currently working on.
+  description: This portfolio / personal website, designed and developed with a conscious effort to showcase my projects that I am currently working on. I did not develop this, I am not very skilled at web-dev, I just reused code. Thanks to Brittany Chiang for open-sourcing this portfolio website source code.
   used:
   - thing: Jekyll
-  - thing: Handlebars
+  - thing: Code Reusing
   - thing: SCSS
   - thing: JavaScript
   - thing: Github Pages
