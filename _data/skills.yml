@@ -9,7 +9,7 @@ languages:
   - item: Visual Basic Script
 
 frameworks:
-  _ item: Inter-Process Actors (C++)
+  - item: Inter-Process Actors (C++)
   - item: Cryptography (ECDSA, AES etc)
   - item: Penetration Testing
   - item: Jekyll (Web Development)
