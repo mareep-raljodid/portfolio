@@ -1,5 +1,6 @@
 languages:
   - item: C++
+  - item: YANG (Data Modelling)
   - item: Rust
   - item: Java
   - item: HTML
@@ -8,7 +9,8 @@ languages:
   - item: Visual Basic Script
 
 frameworks:
-  - item: Cryptography
+  _ item: Inter-Process Actors (C++)
+  - item: Cryptography (ECDSA, AES etc)
   - item: Penetration Testing
   - item: Jekyll (Web Development)
   - item: Machine Learning (NLP)
@@ -17,7 +19,7 @@ frameworks:
   
 tools:
   - item: TensorFlow 
-  - item: Git & Github
+  - item: Git 
   - item: Scikit-learn
   - item: Jupyter Notebook
   - item: Rust Cargo (Crates I/O)
