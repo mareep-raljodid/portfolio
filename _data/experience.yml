@@ -2,13 +2,16 @@
   url: https://www.infinera.com
   time: May 2019 - August 2020
   position: R&D Product Engineer (Co-Op)
-  deets: Engineered and implemented data reporting modules for Performance Monitors used on Line Side Firmware Drivers (PIC Module) which is used in Control Loops for power balancing the optical amplifiers such as EDFA (Erbium-Doped Fiber Amplifier). Updated and optimized the Upgrade Manager application to speed up the upgrade process by 30% (cutting down 20 Minutes)
+
+  deets: • Engineered and implemented data reporting modules for Performance Monitors used on Line Side Firmware Drivers (PIC Module) which is used in Control Loops for power balancing the optical amplifiers such as EDFA (Erbium-Doped Fiber Amplifier) • Updated and optimized the Upgrade Manager application to speed up the upgrade process by 30% (cutting down 20 Minutes) • Completely redesigned pre-existing SDK and DCO daemon inter-process communication to eliminate misreporting and delays • Reviewed and proposed more efficient changes for over 5 Pull Requests every week to help speed up the monthly releases • Implemented Image Downloading Authentication modules that were responsible for secure and reliable over-the-air upgrades • Proposed, pursued, engineered and integrated new YANG Data Models for a more efficient data-store reporting mechanism
 
 
 - company: Infinera
   url: https://www.infinera.com
   time: August 2019 - December 2019
   position: Firmware Engineer (Co-Op)
+
+  deets: • Singlehandedly architected and developed a NETCONF application that uses sysrepo to perform performance tests on YANG Models • Eliminated blockers that includes bugs and integration issues for the DVT team to meet release deadlines • Delivered ECDSA encryption module responsible for safe booting and upgrading process • Engineered and developed required firmware modules for FPGA used in certain interdependent projects within DCO • Managed and engineered Upgrade Manager for the DCO firmware using proprietary Actor Framework [Inter Process Communication]
 
 
 
@@ -17,3 +20,4 @@
   time: October 2018 - August 2019
   position: Research Assistant
 
+  deets: • Currently working with a team of professors to analyze Twitter open dataset for tweets related to COVID-19 to aquire insights about the ongoing panic • Implemented RSBAC, a subset of the RBAC Model, to map permissions for users within the framework. Investigating and analyzing multiple threat scenarios, cyber and physical, on Things Gateway to develop a more secure, reliable, and open-source "Things Framework" using IoT devices • Maintained responsiblities and delivered paper(s) for publications [Emergency Response System, ACM Publication] • Defined architecture for the development of the auxiliary android application called "ThingZone" This research project is funded by Mozilla and NSF (National Science Foundation)-USA
