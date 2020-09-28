@@ -3,9 +3,7 @@
   time: May 2019 - August 2020
   position: R&D Product Engineer (Co-Op)
 
-  deets: 
-• Engineered and implemented data reporting modules for Performance Monitors used on Line Side Firmware Drivers (PIC Module) which is used in Control Loops for power balancing the optical amplifiers such as EDFA (Erbium-Doped Fiber Amplifier) 
-• Updated and optimized the Upgrade Manager application to speed up the upgrade process by 30% (cutting down 20 Minutes) • Completely redesigned pre-existing SDK and DCO daemon inter-process communication to eliminate misreporting and delays • Reviewed and proposed more efficient changes for over 5 Pull Requests every week to help speed up the monthly releases • Implemented Image Downloading Authentication modules that were responsible for secure and reliable over-the-air upgrades • Proposed, pursued, engineered and integrated new YANG Data Models for a more efficient data-store reporting mechanism
+  deets: • Engineered and implemented data reporting modules for Performance Monitors used on Line Side Firmware Drivers (PIC Module) which is used in Control Loops for power balancing the optical amplifiers such as EDFA (Erbium-Doped Fiber Amplifier) • Updated and optimized the Upgrade Manager application to speed up the upgrade process by 30% (cutting down 20 Minutes) • Completely redesigned pre-existing SDK and DCO daemon inter-process communication to eliminate misreporting and delays • Reviewed and proposed more efficient changes for over 5 Pull Requests every week to help speed up the monthly releases • Implemented Image Downloading Authentication modules that were responsible for secure and reliable over-the-air upgrades • Proposed, pursued, engineered and integrated new YANG Data Models for a more efficient data-store reporting mechanism
 
 
 - company: Infinera
