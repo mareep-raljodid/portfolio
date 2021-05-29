@@ -5,7 +5,7 @@
 
   deets: • Engineering a GUI for the ODOT project to integrate with the Lexus car system that help provide an interface
   for the driver to record, save and verify data collected for detecting shoulder drop-off on any given GPS location
-      while the car driving at an average of 50 MPH | Responsiblities: • Developing GUI with C++ frameworks such as ImGUI, OpenGL, DirectX etc, from the scratch• Writing IPC framework modules and custom driver modules for LIDAR, GPS and Camera in C/C++ • Co-authoring research papers that are being submitted to journals
+      while the car driving at an average of 50 MPH | Responsiblities • Developing GUI with C++ frameworks such as ImGUI, OpenGL, DirectX etc, from the scratch• Writing IPC framework modules and custom driver modules for LIDAR, GPS and Camera in C/C++ • Co-authoring research papers that are being submitted to journals
 
 
 - company: Infinera
