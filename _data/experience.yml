@@ -1,3 +1,21 @@
+- company: University of Cincinnati
+  url: https://www.uc.edu
+  time: October 2018 - August 2019
+  position: Research Assistant
+
+  deets: • Engineering a GUI for the ODOT project to integrate with the Lexus car system that help provide an interface
+  for the driver to record, save and verify data collected for detecting shoulder drop-off on any given GPS location
+      while the car driving at an average of 50 MPH | Responsiblities: • Developing GUI with C++ frameworks such as ImGUI, OpenGL, DirectX etc, from the scratch• Writing IPC framework modules and custom driver modules for LIDAR, GPS and Camera in C/C++ • Co-authoring research papers that are being submitted to journals
+
+
+- company: Infinera
+  url: https://www.infinera.com
+  time: January 2021 - May 2021
+  position: R&D Product Engineer (Co-Op)
+
+  deets: • Architect, engineered and released debug tools and features like: • Thread Names for each processes within DVT project• Auto-config capabilities for MAKEFILE• MAKEFILE dependencies restructuring resulting in 25% faster compilation• Ported from scripted to declarative pipelines for our Jenkins regression jobs for a more efficient and future-proof along with added features like NXP integration• Fixed bugs and provided clarifications related to YANG and NETCONF RFCs 
+
+
 - company: Infinera
   url: https://www.infinera.com
   time: May 2019 - August 2020
